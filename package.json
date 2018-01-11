@@ -1,0 +1,19 @@
+{
+  "name": "myjs",
+  "version": "1.0.0",
+  "description": "General purpose Javascript tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beetaa/myjs.git"
+  },
+  "author": "beetaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beetaa/myjs/issues"
+  },
+  "homepage": "https://github.com/beetaa/myjs#readme"
+}
