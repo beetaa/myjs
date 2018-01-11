@@ -1,5 +1,5 @@
 {
-  "name": "myjs",
+  "name": "zzjs",
   "version": "1.0.0",
   "description": "General purpose Javascript tools.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beetaa/myjs.git"
+    "url": "git+https://github.com/beetaa/zzjs.git"
   },
   "author": "beetaa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beetaa/myjs/issues"
+    "url": "https://github.com/beetaa/zzjs/issues"
   },
-  "homepage": "https://github.com/beetaa/myjs#readme"
+  "homepage": "https://github.com/beetaa/zzjs#readme"
 }
